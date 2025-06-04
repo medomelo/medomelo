@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**medomelo/medomelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mohamed Fawaz
 
-Here are some ideas to get you started:
+💻 Frontend Web Designer | 📊 Aspiring Data Analyst  
+🇪🇬 Based in Egypt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- [Portfolio Website](https://medomelo.github.io/portfolio-website/)  
+  A responsive personal portfolio built with HTML, CSS, and JavaScript.
+
+- [Netflix Data Analysis](https://github.com/medomelo/netflix-data-analysis)  
+  Exploratory data analysis of Netflix titles using Python, Pandas, and Matplotlib.
+
+## 📫 Contact Me
+
+- Email: mohamed_fawaz_mostafa@outlook.com
+- GitHub: [medomelo](https://github.com/medomelo) 
